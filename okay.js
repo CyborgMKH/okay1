@@ -1,3 +1,7 @@
 // This is a comment hai
 console.log("Hello World")
-console.log("Hello World") // Second time 
+console.log("Hello World") // Second time
+
+function main(){
+return null;
+}
